@@ -1,4 +1,4 @@
-# Template Mod
+# Dino Nugget Scrap
 
-Put your description here!
+A mod that adds a Dino-Nugget scrap into the game. Mod by @akkilin on github. Default icon by @lilujk on github.
 Default icon by @lilujk on github.
