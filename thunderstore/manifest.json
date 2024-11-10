@@ -1,6 +1,6 @@
 {
-    "name": "Dino_Nugget_Scrap",
-    "version_number": "1.0.0",
+    "name": "DinoNuggetScrap",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/LCOS-Lethal-Company-Open-Source/LCOS-DinoNuggetScrap",
     "description": "A mod that adds a Dino-Nugget scrap into the game.",
     "dependencies": [

@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3436952309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fab86c6c1a5f44e05392aa83f5bbc4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5adc4f650895fe519eb8a0c34f8f3fce
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8fab86c6c1a5f44e05392aa83f5bbc4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.AudioClipInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+Assets:
+- Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/lcosDinoNuggie.prefab
+- Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/dinonuggie.asset
+- Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/TestScrapDinoNuggie.fbx
+- Assets/Mods/DinoNScrap/Audio/discord-notification.mp3
+- Assets/Mods/DinoNScrap/ModManifest.asset
+- Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/DinoNuggie.png
+- Assets/Mods/DinoNScrap/AssetBank.asset
+Dependencies:
+- C:/Users/akkis/Downloads/LethalSDK_v1.3.43/LethalSDK_Project/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem
