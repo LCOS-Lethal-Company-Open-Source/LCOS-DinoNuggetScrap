@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3436952309
+CRC: 4279988868
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8fab86c6c1a5f44e05392aa83f5bbc4f
+    Hash: 1a25de4caa1d9f0e19903ddd618b325b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5adc4f650895fe519eb8a0c34f8f3fce
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8fab86c6c1a5f44e05392aa83f5bbc4f
+    Hash: 1a25de4caa1d9f0e19903ddd618b325b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -51,11 +51,14 @@ SerializeReferenceClassIdentifiers:
   ClassName: LethalSDK.Utils.SerializableVersion
 Assets:
 - Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/lcosDinoNuggie.prefab
+- Assets/Mods/DinoNScrap/Audio/candycorndrop.mp3
 - Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/dinonuggie.asset
 - Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/TestScrapDinoNuggie.fbx
+- Assets/Mods/DinoNScrap/AssetBank.asset
+- Assets/Mods/DinoNScrap/Audio/candycornpickup.mp3
 - Assets/Mods/DinoNScrap/Audio/discord-notification.mp3
 - Assets/Mods/DinoNScrap/ModManifest.asset
 - Assets/Mods/DinoNScrap/Items/Scraps/dinonuggie/DinoNuggie.png
-- Assets/Mods/DinoNScrap/AssetBank.asset
 Dependencies:
+- C:/Users/akkis/Downloads/LethalSDK_v1.3.43/LethalSDK_Project/LethalSDK_Project/Assets/AssetBundles/candyscraps.lem
 - C:/Users/akkis/Downloads/LethalSDK_v1.3.43/LethalSDK_Project/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem
